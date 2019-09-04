@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63613066691",
+    "firebase_url": "https://fir-androidstudio-abbf5.firebaseio.com",
+    "project_id": "fir-androidstudio-abbf5",
+    "storage_bucket": "fir-androidstudio-abbf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63613066691:android:5b6a8270221f2ef7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_androidstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63613066691-dttlsclsoupsdl2joqi2cn6an83m2emb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_androidstudio",
+            "certificate_hash": "ebd90bff7456f42792f8188725d1cc80cfa206ee"
+          }
+        },
+        {
+          "client_id": "63613066691-pnbq6lbtrdk263e55scaru6gdldi2u4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVLGS2GVyW8S_EWHqfb3G7uYrVQ75U3r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63613066691-pnbq6lbtrdk263e55scaru6gdldi2u4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

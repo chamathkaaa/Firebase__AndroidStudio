@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebase_AndroidStudio</string>
+    <string name="msg2">Enter Name</string>
+    <string name="msg1">Enter ID</string>
+    <string name="msg3">Enter Address</string>
+    <string name="msg4">Enter Contact</string>
+    <string name="btn1">Save</string>
+    <string name="btn2">Show</string>
+    <string name="btn3">UPDATE</string>
+    <string name="btn4">DELETE</string>
+</resources>
